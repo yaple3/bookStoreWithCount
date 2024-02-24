@@ -1,0 +1,14 @@
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.AssemblyInfoInputs.cache
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.AssemblyInfo.cs
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.csproj.CoreCompileInputs.cache
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.exe
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.deps.json
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.runtimeconfig.json
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.dll
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.pdb
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.dll
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\refint\bookStoreWithCount.dll
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.pdb
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.genruntimeconfig.cache
+C:\Users\yaple3\source\repos\CIT195\bookStoreWithCount\obj\Debug\net8.0\ref\bookStoreWithCount.dll
